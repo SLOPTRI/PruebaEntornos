@@ -21,15 +21,10 @@ public class Cuadrado {
     public static void main(String[] args){
         Cuadrado cuadradito = new Cuadrado(4);
         Cuadrado cuadradazo = new Cuadrado(8);
-        System.out.println("-------------------------------");
-        System.out.println("Cuadradito");
-        System.out.println("-------------------------------");
+        System.out.println("Cuadradito: ");
         System.out.println(cuadradito);
-        System.out.println("-------------------------------");
         System.out.println("Cuadradazo");
-        System.out.println("-------------------------------");
         System.out.println(cuadradazo);
-        System.out.println("-------------------------------");
     }
 }
 
